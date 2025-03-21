@@ -20,7 +20,6 @@ This website aims to showcase the services offered by Multi Concepts Services, p
 - JavaScript (planned)  
 
 ## 📌 Next Steps  
-
 - Design and styling with CSS  
 - Adding responsive layout  
 - Contact form integration  
