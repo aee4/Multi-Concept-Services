@@ -11,7 +11,6 @@ This website aims to showcase the services offered by Multi Concepts Services, p
 ✅ HTML structure completed  
 🔲 Styling with CSS  
 🔲 Adding interactivity with JavaScript  
-🔲 Backend development (if needed)  
 
 ## 📁 Technologies Used  
 
