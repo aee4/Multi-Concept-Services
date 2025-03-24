@@ -6,8 +6,15 @@ body{
 
 #header{
     font-family: 'Times New Roman', Times, serif;
-    font-size: xx-large;
+    font-size: 28px;
     text-align: left;
-    background-color: teal;
+    background-color:rgb(98, 147, 147);  
+    padding: 0.2%;
+    margin: auto;
 }
+
+ul li {
+    display: flex;
+}
+
 
