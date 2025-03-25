@@ -11,6 +11,7 @@ body{
     background-color:rgb(98, 147, 147);  
     padding: 0.2%;
     margin: auto;
+    text-wrap: auto;
 }
 
 ul li {
